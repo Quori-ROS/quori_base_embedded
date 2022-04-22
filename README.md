@@ -30,3 +30,5 @@ A diagram of the system will be added soon.
   - `/quori/base/desired_vel_status: Vector3` - Desired Motor velocities as directly recieved (in the differential drive case) or calculated (in the holonomic case)
   - `/quori/base/pos_status: Float32` - Orientation of the top plate measure as percent of a revolution, i.e from 0 to 1
 
+![quori base diagram for uC](https://github.com/Quori-ROS/quori_base_embedded/blob/master/base_uC_diagram.png?raw=true)
+
